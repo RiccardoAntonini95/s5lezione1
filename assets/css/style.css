@@ -276,11 +276,20 @@ footer a {
         display: inline-block;
         width: 49%;
         vertical-align: middle;
+        min-height: 200px;
     }
 
-    aside > div{
+    section{
+        line-height: 2.2;
+    }
+    
+    .article{
         display: inline-block;
         width: 33%;
+    }
+
+    .article p{
+        display: block;
     }
 
     aside div p:last-child{
