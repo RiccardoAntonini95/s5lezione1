@@ -242,6 +242,11 @@ footer a {
       line-height: 4.5;
     }
 
+    h1{
+        font-size: 3.5rem;
+        line-height: 1.2;
+    }
+
     h2{
         font-size: 1.6rem;
         font-weight: bold;
@@ -250,6 +255,7 @@ footer a {
     table{
         margin-left: auto;
         margin-right: auto;
+        margin-bottom: 3em;
         width: 70%;
     }
 
